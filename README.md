@@ -78,6 +78,8 @@ l-urk
 ![images (1)](https://github.com/user-attachments/assets/945fd3a3-8261-4fa9-96d9-52a5d15b4217)
 ![436304882_1726325131527292_7681778764222611989_n](https://github.com/user-attachments/assets/f175cce4-8376-4b25-b800-bd8e40edd66e)
 ![442243826_1384043035644411_4069712089413856675_n](https://github.com/user-attachments/assets/187aaf9c-720c-441f-af9f-a8cf38e9b182)
+![WIN_20230425_22_18_29_Pro](https://github.com/user-attachments/assets/3bf5c69d-ae60-42e2-8673-db8463b3ad6c)
+
 
 ビヨンド・バースデイ Los Angeles
 
