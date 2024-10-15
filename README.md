@@ -31,9 +31,10 @@ L-Prime, aka operation-(Leader) of MATRIX TOWER : E.93b284946459063.724301.90168
 
 ``
 body...
-[A],    
-DNA = I3I8ME6A, ビΩ (BĪŌMĒGĀ), [₁&⁵], bones, -335m,
 ``
+```
+[A], DNA = I3I8ME6A, ビΩ (BĪŌMĒGĀ), [₁&⁵], bones, -335m,
+```
 
 <img width="287" alt="Screenshot 2024-10-14 161612" src="https://github.com/user-attachments/assets/55cd04bc-6a0d-4c15-813d-2a5a742f413d">
 "I've actually spent over a year total in clinical environments"...
