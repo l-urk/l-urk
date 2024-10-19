@@ -77,12 +77,8 @@ l-urk
 ```
 
 ![images (1)](https://github.com/user-attachments/assets/945fd3a3-8261-4fa9-96d9-52a5d15b4217)
-![WIN_20230425_22_18_29_Pro](https://github.com/user-attachments/assets/3bf5c69d-ae60-42e2-8673-db8463b3ad6c)
-
 
 ビヨンド・バースデイ Los Angeles
-
-
 
 ```
 - 🔭 I’m currently working on ÆRuSystem LLC.
