@@ -35,9 +35,7 @@ body...
 ```
 [A], DNA = I3I8ME6A, ビΩ (BĪŌMĒGĀ), [₁&⁵], bones, -335m,
 ```
-
-<img width="287" alt="Screenshot 2024-10-14 161612" src="https://github.com/user-attachments/assets/55cd04bc-6a0d-4c15-813d-2a5a742f413d">
-"I've actually spent over a year total in clinical environments"...
+![a93nihw6lqac1](https://github.com/user-attachments/assets/1a7fc8f8-e957-42b1-8939-646d044da5a1)
 
 ``username: ``
 ```
