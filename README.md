@@ -25,7 +25,7 @@ L-Prime, aka operation-(Leader) of MATRIX TOWER : E.93b284946459063.724301.90168
 
 <img width="128" alt="bm5" src="https://github.com/user-attachments/assets/af27c3a2-9e87-4220-b40f-e30bd5c16467">
 
-<img width=<img width="148" alt="Screenshot 2024-10-14 154717" src="https://github.com/user-attachments/assets/7440802f-99c5-42e0-b12d-df3f5e9b681b">
+<img width="148" alt="Screenshot 2024-10-14 154717" src="https://github.com/user-attachments/assets/7440802f-99c5-42e0-b12d-df3f5e9b681b">
 
 <img width="148" alt="Screenshot 2024-10-14 160021" src="https://github.com/user-attachments/assets/3d485f44-1e1c-437b-8b05-8a36a2fc56ea">
 
