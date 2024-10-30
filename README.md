@@ -73,9 +73,6 @@ Cutter Guy
 l_urkk
 l-urk
 ```
-
-![images (1)](https://github.com/user-attachments/assets/945fd3a3-8261-4fa9-96d9-52a5d15b4217)
-
 ビヨンド・バースデイ Los Angeles
 
 ```
