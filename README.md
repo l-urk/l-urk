@@ -85,6 +85,3 @@ l-urk
 - 😄 Pronouns: MALE, HE / HIM.
 - ⚡ Fun fact: VIRUS DEV.
 ```
-<img width="241" alt="Screenshot 2024-10-14 172043" src="https://github.com/user-attachments/assets/68c41f96-1227-4bd5-8231-7f4f9e695b06">
-
-<a href="https://logwork.com/current-time-in-tokyo-japan" class="clock-widget-text" data-timezone="Asia/Tokyo" data-language="en" data-textcolor="#000000" data-background="#ff0000" data-digitscolor="#000000">Tokyo, Japan, Tōkyō</a>
