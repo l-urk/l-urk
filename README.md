@@ -31,7 +31,6 @@ body...
 ```
 [A], DNA = I3I8ME6A, ビΩ (BĪŌMĒGĀ), [₁&⁵], bones, -335m,
 ```
-![a93nihw6lqac1](https://github.com/user-attachments/assets/1a7fc8f8-e957-42b1-8939-646d044da5a1)
 
 ``username: ``
 ```
